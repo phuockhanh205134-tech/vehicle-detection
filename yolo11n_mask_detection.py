@@ -5,7 +5,7 @@ from ultralytics import YOLO
 
 # Configuration
 MODEL_PATH = "yolo11n-seg.pt"
-VIDEO_PATH = "New YOLO/IMG_0485.MOV"
+VIDEO_PATH = "New YOLO/IMG_0478.MOV"
 CONFIDENCE_THRESHOLD = 0.5
 IOU_THRESHOLD = 0.5
 
